@@ -17,5 +17,7 @@ MusicGenreFilter: The folder containing the model
 Music Classification.ipynb: My code
 
 The model can be found here: https://drive.google.com/drive/folders/1i4YXwnlGWa5YJae7MkdxhwJKj46MaT44?usp=sharing
+
 The weights can be found here: https://drive.google.com/file/d/1sD6ljQb-byglwpJosmK33Vbm0FbBcMCr/view?usp=sharing
 
+The data can be found here: https://www.dropbox.com/s/4jw31k5mlzcmgis/genres.tar.gz?dl=0
