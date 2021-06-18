@@ -15,4 +15,7 @@ The neural network model does the classification.
 MusicFilterWeights.h5: The weights of the model
 MusicGenreFilter: The folder containing the model
 Music Classification.ipynb: My code
-Data: Folder containing the processed data
+
+The model can be found here: https://drive.google.com/drive/folders/1i4YXwnlGWa5YJae7MkdxhwJKj46MaT44?usp=sharing
+The weights can be found here: https://drive.google.com/file/d/1sD6ljQb-byglwpJosmK33Vbm0FbBcMCr/view?usp=sharing
+
